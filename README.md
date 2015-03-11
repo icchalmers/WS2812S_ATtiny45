@@ -6,7 +6,7 @@ This is a small test board for the WS2812S LEDs using the ATtiny85. It was made 
 
 # Design
 
-The board was designed in KiCad, and machined on a Denford PCB Engraver. The footprints are designed for reflow soldering, but the board should be board solderable with a steady hand.
+The board was designed in KiCad, and machined on a Denford PCB Engraver. The footprints are designed for reflow soldering, but the board should be hand solderable with a steady hand.
 
 All of the parts are part of the standard Fab Lab inventory, with the exception of the WS2812S and the ATtiny85. However, you can substitute an ATtiny45 without any problem. I just used an 85 because a) more memory and b) we actually got them cheaper!
 
