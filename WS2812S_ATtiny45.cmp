@@ -1,0 +1,51 @@
+Cmp-Mod V01 Genere par PcbNew le Mon 09 Mar 2015 22:31:17 GMT
+
+BeginCmp
+TimeStamp = 54FE0439
+Path = /54FE0792
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FE04E8
+Path = /54FDE421
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = FabLibrary:avr-SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FE044F
+Path = /54FDED0C
+Reference = P1;
+ValeurCmp = CONN_02X03;
+IdModule  = FabLibrary:CON_2x3_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FE0455
+Path = /54FE04FB
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FE0467
+Path = /54FDEC30
+Reference = U1;
+ValeurCmp = WS2812S;
+IdModule  = FabLibrary:WS812S;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FE1E37
+Path = /54FE1FB5
+Reference = SW1;
+ValeurCmp = DPST_fixed;
+IdModule  = FabLibrary:PushButton_smd;
+EndCmp
+
+EndListe
